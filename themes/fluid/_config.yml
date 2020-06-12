@@ -384,23 +384,16 @@ links:
   banner_img: /img/default.png
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
-  subtitle:  # 打字机内容
+  subtitle: 赞助商 # 打字机内容
   items:  # intro 与 image 可省略
     - {
-      title: 'Fluid Docs',
-      intro: '主题使用指南',
-      link: 'https://hexo.fluid-dev.com/docs/',
-      image: '/img/favicon.png'
+      title: '斩魂工作室',
+      intro: '赞助商',
+      image: '/img/zhanhun.png'
     }
     - {
-      title: 'Fluid Repo',
-      intro: '主题 GitHub 仓库',
-      link: 'https://github.com/fluid-dev/hexo-theme-fluid',
-      image: '/img/favicon.png'
-    }
-    - {
-      title: 'Fluid Example',
-      intro: '主题操作示例',
-      link: 'https://hexo.fluid-dev.com/docs/example/',
+      title: 'MTR',
+      intro: '技术支持，域名提供，主机提供',
+      link: 'https://mtrstatic.tk',
       image: '/img/favicon.png'
     }
