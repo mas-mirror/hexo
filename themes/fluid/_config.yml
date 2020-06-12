@@ -389,6 +389,7 @@ links:
     - {
       title: '斩魂工作室',
       intro: '赞助商',
+      link: '/links/',
       image: '/img/zhanhun.png'
     }
     - {
